@@ -61,3 +61,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Eclipse
+.metadata/
+.recommenders/
+Home1/.classpath
+*.project
+Home1/.settings/org.eclipse.core.resources.prefs
+*.prefs
